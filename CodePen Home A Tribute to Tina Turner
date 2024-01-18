@@ -1,0 +1,155 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Tribute To Tina Turner</title>
+</head>
+<body>
+ <main div id= "main">
+  <header>
+      <nav>
+      <ul>
+        <li><a href="#1">Early years</a></li>
+        <li><a href="#2">Career in music</a></li>
+        <li><a href="#3">The split</a></li>
+        <li><a href="#4">Illness and death</a></li>
+        <li><a href="#5">Musical legacy and accolades</a></li>
+      </ul>
+    </nav>
+    <h1 id = "title" > A Tribute To Tina Turner</h1>
+    
+  </header>
+  <div id="img-div"><div id="img-caption"<div="img-div">
+    <img  src = "https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Tina_turner_21021985_01_350.jpg/220px-Tina_turner_21021985_01_350.jpg" >
+<p id = "img-caption"/>
+  <i>The Queen of Rock 'n' Roll</i>
+    </p>
+    
+  </div>
+  <main  id="tribute-info">
+    <div class='1st'>
+    <p>
+      Known as the "Queen of Rock 'n' Roll", she rose to prominence as the lead singer of the husband-wife duo Ike & Tina Turner before launching a successful career as a solo performer. She was recognized for her "swagger, sensuality, powerful gravelly vocals and unstoppable energy."[4][5][6] A resident of Küsnacht, Switzerland, from 1994 until her death, Turner relinquished her American citizenship after obtaining Swiss citizenship in 2013.[7]
+
+Turner began her career with her ex-husband Ike Turner's band the Kings of Rhythm in 1956.[8] Under the name Little Ann, she appeared on her first record, "Boxtop", in 1958. In 1960, she debuted as Tina Turner with the hit single "A Fool in Love". The Ike & Tina Turner Revue became "one of the most formidable live acts in history."[9] The duo released hits such as "It's Gonna Work Out Fine", "River Deep – Mountain High", "Proud Mary", and "Nutbush City Limits", before disbanding in 1976.
+
+In the 1980s, Turner launched "one of the greatest comebacks in music history."[10] Her 1984 multi-platinum album Private Dancer contained the hit song "What's Love Got to Do with It", which won the Grammy Award for Record of the Year and became her first and only number-one song on the Billboard Hot 100. At 44, she was the oldest female solo artist to top the Hot 100.[11] Her chart success continued with "Better Be Good to Me", "Private Dancer", "We Don't Need Another Hero (Thunderdome)", "Typical Male", "The Best", "I Don't Wanna Fight", and "GoldenEye". She embarked on the Break Every Rule World Tour (1987–1988), which became the top-grossing female tour of the 1980s and set a Guinness World Record for the then-largest paying audience in a concert (180,000).[12]
+
+Turner also acted in the films Tommy (1975) and Mad Max Beyond Thunderdome (1985). In 1986, she published her autobiography I, Tina: My Life Story, which was adapted for the 1993 film What's Love Got to Do with It. In 2009, Turner retired after completing her Tina!: 50th Anniversary Tour. In 2018, she became the subject of Tina, a jukebox musical.
+
+Turner sold more than 100 million records worldwide, becoming one of the best-selling recording artists of all time.[13] She received 12 Grammy Awards, which include eight competitive awards, a Grammy Lifetime Achievement Award and three Grammy Hall of Fame inductions. She was the first black artist and first woman to be on the cover of Rolling Stone.[14] Rolling Stone ranked her among the 100 Greatest Artists of All Time and the 100 Greatest Singers of All Time. Turner has a star on the Hollywood Walk of Fame and on the St. Louis Walk of Fame. She was inducted into the Rock and Roll Hall of Fame twice, with Ike Turner in 1991 and as a solo artist in 2021. She was also a 2005 recipient of the Kennedy Center Honors and Women of the Year award.
+</p>
+<div class="sec">
+<h3 id="1">Early years</h3>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Tina_Turner_50th_Anniversary_Tour.jpg/220px-Tina_Turner_50th_Anniversary_Tour.jpg">
+  <p>  Turner was born as Anna Mae Bullock[a] on November 26, 1939, in Brownsville, Tennessee, the youngest daughter of Floyd Richard Bullock and his wife Zelma Priscilla (née Currie). The family lived in the nearby rural unincorporated community of Nutbush, Tennessee, where her father worked as an overseer of the sharecroppers at Poindexter Farm on Highway 180; she later recalled picking cotton with her family at an early age. </p><br>
+
+Bullock had two older sisters, Evelyn Juanita Currie and Ruby Alline Bullock, a songwriter. As young children, the three sisters were separated when their parents relocated to Knoxville, Tennessee, to work at a defense facility during World War II. Bullock went to stay with her strict, religious paternal grandparents, Alex and Roxanna Bullock, who were deacon and deaconess at the Woodlawn Missionary Baptist Church. After the war, the sisters reunited with their parents and moved with them to Knoxville. Two years later, the family returned to Nutbush to live in the Flagg Grove community, where Bullock attended Flagg Grove Elementary School from first through eighth grade.<br>
+
+As a young girl, Bullock sang in the church choir at Nutbush's Spring Hill Baptist Church. In 1950, when she was 11, her mother Zelma left without warning, seeking freedom from her abusive relationship with Floyd by relocating to St. Louis. Two years after her mother left the family, her father married another woman and moved to Detroit. Bullock and her sisters were sent to live with their maternal grandmother, Georgeanna Currie, in Brownsville, Tennessee. <br>
+
+As a teenager, Bullock worked as a domestic worker for the Henderson family in Ripley, Tennessee. She was at the Henderson house when she was notified that her half-sister Evelyn had died in a car crash alongside her cousins Margaret and Vela Evans. A self-professed tomboy, Bullock joined both the cheerleading squad and the female basketball team at Carver High School in Brownsville, and "socialized every chance she got." When Bullock was 16, her grandmother died, so she went to live with her mother in St. Louis. She graduated from Sumner High School in 1958. After high school, Bullock worked as a nurse's aide at Barnes-Jewish Hospital 
+<p>
+  </p></div>
+      <div class="third">
+<h3 id="2">Career in music</h3>
+<p>
+  Bullock was introduced to the public as Tina Turner with the single "A Fool in Love" in July 1960.[62] It reached No. 2 on the Hot R&B Sides chart and No. 27 on the Billboard Hot 100. Journalist Kurt Loder described the track as "the blackest record to ever creep into the white pop charts since Ray Charles's gospel-styled 'What'd I Say' that previous summer". Another single from the duo, "It's Gonna Work Out Fine", reached No. 14 on the Hot 100 and No. 2 on the R&B chart in 1961, earning them a Grammy nomination for Best Rock and Roll Performance. Other singles Ike & Tina released between 1960 and 1962 included the R&B hits "I Idolize You", "Poor Fool", and "Tra La La La La".
+
+After the release of "A Fool in Love", Ike created the Ike & Tina Turner Revue, which included the Kings of Rhythm and a girl group, the Ikettes, as backing vocalists and dancers. He remained in the background as the bandleader. Ike put the entire revue through a rigorous touring schedule across the United States, performing 90 days straight in venues around the country. During the days of the Chitlin' Circuit, the Ike & Tina Turner Revue built a reputation as "one of the hottest, most durable, and potentially most explosive of all R&B ensembles", rivaling the James Brown Revue in terms of musical spectacle.[67] Due to their profitable performances, they were able to perform in front of desegregated audiences in Southern clubs and hotels.[68]
+
+Between 1963 and 1965, the band toured constantly and produced moderately successful R&B singles. Turner's first credited single as a solo artist, "Too Many Ties That Bind"/"We Need an Understanding", was released from Ike's label Sonja Records in 1964. Another single by the duo, "You Can't Miss Nothing That You Never Had", reached No. 29 on the Billboard R&B chart. After their tenure at Sue Records, the duo signed with more than ten labels during the remainder of the decade, including Kent, Cenco, Tangerine, Pompeii, A&M, and Minit. In 1964, they signed to Warner Bros. Records and Bob Krasnow became their manager. <br>
+On the Warner Bros. label, they achieved their first charting album with Live! The Ike & Tina Turner Show, peaking at No. 8 on the Billboard Hot R&B LP chart in February 1965.[75] Their singles "Tell Her I'm Not Home", released on Loma Records, and "Good Bye, So Long", released on Modern Records, were top 40 R&B hits in 1965.<br>
+
+Turner's profile was raised after several solo appearances on shows such as American Bandstand and Shindig! while the entire revue appeared on Hollywood a Go-Go. In 1965, music producer Phil Spector attended an Ike & Tina Turner show at a club on the Sunset Strip, and he invited them to appear in the concert film The Big T.N.T. Show.<br>
+</p>
+</div>
+      <div class="fourth">
+<h3 id ="3">The split</h3>
+<p>By the mid-1970s, Ike was heavily addicted to cocaine, which hindered his relationship with Turner.[113] In 1976, they headlined at the Waldorf Astoria New York and signed a television deal with CBS-TV. He made plans to leave United Artists Records for a five-year deal with Cream Records for $150,000 per year; the deal was to be signed on July 5.<br>
+
+On July 1, the Turners flew from Los Angeles to Dallas, where the revue had a gig at the Statler Hilton in downtown. The couple got into a physical altercation en route to the hotel.<br>
+
+ Shortly after arriving, Turner fled from Ike with only 36 cents and a Mobil gas card and later hid at the Ramada Inn across the freeway. She filed for divorce on July 27, and it was finalized on March 29, 1978. After their separation, United Artists released two more albums credited to the duo: Delilah's Power (1977) and Airwaves (1978).
+ <br></p>
+</div>
+      <div class="fifth">
+<h3 id ="4"> Illness and death</h3>
+<p> Turner revealed in her 2018 memoir My Love Story that she had multiple life-threatening illnesses. She had high blood pressure since 1978, which remained mostly untreated, and resulted in damage to her kidneys and eventual kidney failure. <br>
+
+In 2013, three weeks after her wedding to Erwin Bach, she had a stroke and needed to learn to walk again. In 2016, she was diagnosed with intestinal cancer.While she attempted to treat her health problems with homeopathy, they worsened.<br>
+
+Her chances of receiving a kidney transplant were considered low and she was urged to start dialysis. <br>
+
+She signed up with an organization that facilitates assisted suicide, a procedure which is legal in Switzerland, becoming a member of Exit International. However, her husband offered to donate a kidney for transplant. She accepted his donation and had kidney transplant surgery on April 7, 2017. Turner also openly discussed her feeling of shame after discovering that she had dyslexia.<br>
+
+On May 24, 2023, Turner died at her home in Küsnacht, Switzerland, aged 83, following years of illness. Turner's body was cremated after a private funeral.<br>
+
+In the aftermath of her death, many fellow artists mourned her loss.
+Turner also received tributes by model Naomi Campbell, as well as film and television figures such as Oprah Winfrey, Angela Bassett, Jenifer Lewis, Forest Whitaker, and Bette Midler and theater producer Joop van den Ende. US president Joe Biden, as well as former presidents Barack Obama and Bill Clinton, and Swiss president Alain Berset also paid tribute to Turner through public statements. <br>
+
+King Charles III paid tribute by allowing "The Best" to be performed during the changing of the guard. The junior common room of St Cuthbert's Society, a college of Durham University, granted Turner "Honorary Afterlife Membership".<br></p>
+</div>
+    <div class= "sixth">
+<h3 id ="5">Musical Legacy and Accolades⁣</h3>
+<p>Often referred to as "The Queen of Rock and Roll", Turner is considered one of the greatest singers of all time. She was noted for her "swagger, sensuality, gravelly vocals and unstoppable energy", along with her career longevity and her famous legs.<br>
+
+<li> 1967: Turner was the first black artist and first female on the cover of Rolling Stone magazine (Issue No. 2).</li>
+<li>1986: Turner received a star on the Hollywood Walk of Fame.
+  <li>1991: She received a star on the St. Louis Walk of Fame in 1991 and was inducted She was inducted into the Rock and Roll Hall of Fame as a duo with Ike Turner.</li>
+<li>1988: She previously held a Guinness World Record for the largest paying audience (180,000) for a solo performer.</li>
+
+<li> 1993: World Music Awards presented Turner with the Legend Award.</li>
+1993: Essence Awards honored Turner with the Living Legend Award.
+1996: Turner received the accolade of Légion d'Honneur from the French education minister.</li>
+</li>1999: Turner ranked No.2 on VH1's list of 100 Greatest Women of Rock and Roll.<li>
+<li>2002: Tennessee State Route 19 between Brownsville and Nutbush was named "Tina Turner Highway".</li>
+<li>2003: Rolling Stone ranked Proud Mary: The Best of Ike & Tina Turner No. 212 on their list of the 500 Greatest Albums of All Time (No. 214 on 2012 revised list).</li>
+<li>2004: People ranked her 1985 performance of "What's Love Got to Do With It" as one of the top 10 Grammy moments.</li>
+<li>2008: Rolling Stone ranked Turner No. 17 on their list of the 100 Greatest Singers of All Time.</li>
+<li>2009: Time ranked her 1985  performance of "What's Love Got to Do With It" as one of the top 10 Grammy moments.</li>
+<li>2010: Rolling Stone ranked Turner No. 63 on their list of the 100 Greatest Artists of All Time.</li>
+<li>2013: Turner covered Vogue Germany, becoming the oldest person (aged 73) to cover Vogue magazine, surpassing Meryl Streep (aged 62) who covered American Vogue in 2012.</li>
+<li>2014: Turner was inducted into the Soul Music Hall of Fame.</li>
+<li>2015: Rolling Stone ranked Ike & Tina Turner No. 2 on their list of the 20 Greatest Duos of All Time.</li>
+<li>2015: Ike & Tina Turner were inducted into the St. Louis Classic Rock Hall of Fame.</li>
+<li>2016: An image of Turner taken by Jack Robinson in 1969 was used as the cover for The Last Shadow Puppets album Everything You've Come to Expect.</li>
+<li>2019: Turner was inducted into the Memphis Music Hall of Fame.</li>
+<li>2020: Private Dancer was added to the National Recording Registry at the Library of Congress.</li>
+<li>2021: Turner became a two-time Rock and Roll Hall of Fame inductee.</li>
+<li>2021: Turner received an honorary doctorate for her "unique musical and artistic life's work" from the Philosophical and Historical Faculty of the University of Bern.</li>
+<li>2022: Mattel released a Barbie doll in Turner's likeness to commemorate her single "What's Love Got To Do With It".</li>
+<li>2023: Rolling Stone ranked Turner No. 55 on their list of the 200 Greatest Singers of All Time.</li>
+<p> In the UK, Turner was the first artist to have a top 40 hit in seven consecutive decades; she has a total of 35 UK top 40 hits.[208] She sold over 100 million records worldwide, including certified RIAA album sales of 10 million.</p>
+<p>As of May 2023, Turner has reportedly sold around 100 to 150 million records worldwide.</p>
+<p>Turner won a total of 12 Grammy Awards. 
+Three of her recordings are in the Grammy Hall of Fame.</p>
+<p>Turner is the only female artist to have won a Grammy in the pop, rock, and R&B fields.
+Turner received a Grammy Lifetime Achievement Award in 2018.Turner also won Grammys as a member of USA for Africa and as a performer at the 1986 Prince's trust concert.</p>
+<img src"https://en.wikipedia.org/wiki/Tina_Turner#/media/File:Don_Grierson_with_Tina_Turner.jpg">
+<p> Don Grierson with Tina Turner</p>
+</div>
+<a id = "tribute-link" href="https://https://en.wikipedia.org/wiki/Tina_Turner#" target="_blank">Click here to learn more about this great woman, Tina Turner</a>
+  </div></main>
+  <footer>
+    <nav>
+      <ul>
+  <ul>
+        <li><a href="#1">Early years</a></li>
+        <li><a href="#2">Career in music</a></li>
+        <li><a href="#3">The split</a></li>
+        <li><a href="#4">Illness and death</a></li>
+        <li><a href="#5">Musical legacy and accolades</a></li>
+      </ul>
+    </nav>
+      </ul>
+    </nav>
+    <p id="copyright">Blazetech. All Rights Reserved</p>
+  </footer> 
+  
+ </div>
+</body>
+</html>
+
+
