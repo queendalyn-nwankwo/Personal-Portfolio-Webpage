@@ -1,0 +1,118 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blazetech Services</title>
+</head>
+<body>
+<div id="page-wrapper">
+  <header id="header">
+    <div class="logo">
+      <img id="header-img" src="https://ibb.co/jMTzyMw" alt="Blazetech logo"/>
+    </div>
+    <nav id="nav-bar">
+      <ul>
+        <li><a class="nav-link" href="#features">Features</a></li>
+        <li><a class="nav-link" href="#offerings">Offerings</a></li>
+        <li><a class="nav-link" href="#pricing">Pricing</a></li>
+      </ul>
+    </nav>
+  </header>
+    <section id="hero">
+      <h2>World-class, Web Development Services</h2>
+      <form id="form" action="https://www.freecodecamp.com/email-submit">
+        <input name="email" id="email" type="email" placeholder="Enter your email address" required/>
+        <input id="submit" type="submit" value="Get Started" class="btn">
+      </form>
+    </section>
+    <div class="container">
+      <section id = "features">
+        <div class ="grid">
+          <div class="icon"><i class="fa fa-3x fa-fire"></i></div>
+          <div class="desc">
+          <h2>Responsive Web Applications</h2>
+          <p>
+            We build dynamic websites and web applications that displays optimally on any device screen, be it mobile, tablet or pc.
+          </p>
+        </div>
+        </div>
+         <div class="grid">
+        <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+        <div class="desc">
+          <h2>Fast and Lightweight Apps</h2>
+          <p>
+           We prioritize speed and resource efficiency for our web technologies thus resulting in optimal user experience.
+          </p>
+        </div>
+      </div>
+      <div class="grid">
+        <div class="icon"><i class="fa fa-3x fa-truck"></i></div>
+        <div class="desc">
+          <h2>Modern Layout & SEO</h2>
+          <p>
+            We employ modern technology and layout to our projects. We ensure that our sites conform to search engine optimization best practises thus ensuring that they rank highly in search result.
+          </p>
+        </div>
+      </div>
+      </section>
+    </div>
+   <section id="offerings">
+      <iframe
+        id="video"
+    height="315"src="https://www.youtube.com/embed/hQLyvohz0JQ;controls=0&amp;showinfo=0"
+        frameborder="0"
+              allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
+    </section>
+  <section id="pricing">
+      <div class="product" id="starter">
+        <div class="level">Starter (Landing Page)</div>
+        <h2>$200</h2>
+        <ol>
+          <li>5 pages website.</li>
+          <li>Social media Integration.</li>
+          <li>Mobile responsiveness.</li>
+          <li>SEO</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+      <div class="product" id="standard">
+        <div class="level">Standard Package</div>
+        <h2>$500</h2>
+        <ol>
+          <li>5 - 10 pages</li>
+          <li>Social media Integration</li>
+          <li>Search Engine Optimisation</li>
+          <li>Mobile responsiveness</li>
+          <li>Branding</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+      <div class="product" id="gold">
+        <div class="level">Gold Package</div>
+        <h2>$1,000</h2>
+        <ol>
+          <li>Custom Pages</li>
+          <li>Social media Integration</li>
+          <li>Search Engine Optimisation</li>
+          <li>Mobile responsiveness</li>
+          <li>Branding</li>
+            <li>Content Creation (T & C apply)</li>
+            <li>Content Delivery Network use</li>
+        </ol>
+        <button class="btn">Select</button>
+      </div>
+    </section>
+   <footer>
+      <ul>
+        <li><a href="#">Privacy</a></li>
+        <li><a href="#">Terms</a></li>
+        <li><a href="#">Contact</a></li>
+      </ul>
+      <span>&copy 2021, Blazetech Services</span>
+    </footer>
+  </div>     
+</body>
+</html>
